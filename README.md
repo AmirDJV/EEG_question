@@ -1,2 +1,2 @@
 The data files are here: 
-https://www.dropbox.com/sh/ik6hmp0b09c3l8f/AABsZ0uSp5AR2GK70XUGk4Vta?dl=0
+https://www.dropbox.com/s/lfb3ez430at7h49/EEG%20question%20data.zip?dl=1
